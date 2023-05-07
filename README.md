@@ -3,7 +3,6 @@
       1- Denklemin değişkenini giriniz.
         Bu; x,!,",4 gibi bir tek karakterli olmalıdır.
        
-    
       2- Denklemin terim sayısını giriniz.
         Bu, pozitif bir tam sayı olmalıdır.
     
@@ -13,7 +12,7 @@
           - Üssü 1 olan ifadeler
           - Sabit sayı
       
-        Kare olan terimleri belirmek için terimin katsayısını,başta belirlediğiniz değişkeni, sonuna da 2 rakamını yazmanız gerekiyor.
+        Kare olan terimleri belirmek için terimin katsayısını, başta belirlediğiniz değişkeni, sonuna da 2 rakamını yazmanız gerekiyor.
         Örnek: 423x2, 133y2, 55z2, a2, -d2.
     
         Üssü 1 olanterimleri belirmek için terimin katsayısını sonuna da başta belirlediğiniz değişkeni yazmanız gerekiyor.
