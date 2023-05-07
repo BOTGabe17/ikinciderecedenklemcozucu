@@ -13,13 +13,13 @@
           - Sabit sayı
       
         Kare olan terimleri belirmek için terimin katsayısını, başta belirlediğiniz değişkeni, sonuna da 2 rakamını yazmanız gerekiyor.
-        Örnek: 423x2, 133y2, 55z2, a2, -d2.
+        Örnek: 423x2, 133y2, 55z2, -4!2, a2, -d2.
     
         Üssü 1 olanterimleri belirmek için terimin katsayısını sonuna da başta belirlediğiniz değişkeni yazmanız gerekiyor.
-        Örnek: 423x, 133y, 55z, a, -d.
+        Örnek: 423x, 133y, 55z, -4!, a, -d.
     
         Sabit sayı belirmek için sayıyı yazmanız gerekiyor.
-        Örnek: 423, 133, 55, 1, -1.
+        Örnek: 423, 133, 55, -4, 1, -1.
     
       Program çıktı olarak yazdığınız denkleme göre ya 2 adet sayı ya da "denklemin reel kökü yoktur", "denklem 2. derece değil." çıktılarından birini verecektir.
   
