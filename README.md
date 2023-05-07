@@ -20,7 +20,10 @@
     
         Sabit sayı belirmek için sayıyı yazmanız gerekiyor.
         Örnek: 423, 133, 55, -4, 7!2, 1, -1.
-    
+        
+        Terimleri teker teker girmeniz gerekmektedir.
+        Program, sizin başta belirtiğiniz terim sayısı kadar terim soracaktır.
+  
       Program çıktı olarak yazdığınız denkleme göre ya 2 adet sayı ya da "denklemin reel kökü yoktur", "denklem 2. derece değil." çıktılarından birini verecektir.
   
     başarılar.
