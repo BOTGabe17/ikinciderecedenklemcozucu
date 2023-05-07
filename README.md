@@ -1,8 +1,8 @@
     Kullanım Talimatları:
 
       1- Denklemin değişkenini giriniz.
-        Bu; x,y,z gibi bir tek karakterli harf ya da 4 gibi bir rakam olabilir.
-        sorun çıkarmaması için harf girmenizi tavsiye ederiz.
+        Bu; x,!,",4 gibi bir tek karakterli olmalıdır.
+       
     
       2- Denklemin terim sayısını giriniz.
         Bu, pozitif bir tam sayı olmalıdır.
