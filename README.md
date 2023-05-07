@@ -21,3 +21,7 @@ Kullanım Talimatları:
     
     Sabit sayı belirmek için sayıyı yazmanız gerekiyor.
     Örnek: 423, 133, 55, 1, -1.
+    
+  Program çıktı olarak yazdığınız denkleme göre "denklemin reel kökü yoktur", "denklem 2. derece değil.", ya da iki farklı sayı verecektir.
+  
+başarılar.
