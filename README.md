@@ -9,9 +9,9 @@
     
       3- Terimleri giriniz.
         3 tür terim girebilirsiniz:
-      - Kare ifadeler
-      - Üssü 1 olan ifadeler
-      - Sabit sayı
+          - Kare ifadeler
+          - Üssü 1 olan ifadeler
+          - Sabit sayı
       
         Kare olan terimleri belirmek için terimin katsayısını,başta belirlediğiniz değişkeni, sonuna da 2 rakamını yazmanız gerekiyor.
         Örnek: 423x2, 133y2, 55z2, a2, -d2.
